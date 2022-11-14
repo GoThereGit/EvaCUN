@@ -17,9 +17,9 @@ Cuneiform is one of the earliest writing systems in recorded human history (ca. 
 
 
 # Tracks
-1. Translation from **_ancient Akkadian_** in cuneiform unicode Glyphs and/or transliteration into **_modern English_**
-2. Translation from **_ancient Akkadian_** in cuneiform unicode Glyphs and/or transliteration into **_modern Hebrew_**
-3. Translation from **_ancient Akkadian_** in cuneiform unicode Glyphs and/or transliteration into **_modern Arabic_**
+1. Translation from **_ancient Akkadian_** into **_modern English_**
+2. Translation from **_ancient Akkadian_** into **_modern Hebrew_**
+3. Translation from **_ancient Akkadian_** into **_modern Arabic_**
 
 # Participants
 
