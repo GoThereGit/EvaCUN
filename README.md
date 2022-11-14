@@ -36,6 +36,7 @@ Cuneiform is one of the earliest writing systems in recorded human history (ca. 
 * Lena Demmeler
 * Avital Romach
 * Zaid Maayah, College of Letters & Science, Data Science Major, UC Berkeley, California
+* Tina Chen, College of Letters & Science, Data Science Major, UC Berkeley, California
 
 # Data
 
